@@ -13,7 +13,7 @@ import ffmpeg
 # -----------------------------
 BOT_CREATOR = "Cytra 😎"
 BOT_NAME = "Cytra Converter Bot"
-TOKEN = os.getenv("TG_BOT_TOKEN")  # Set your bot token in Render environment variables
+TOKEN = os.getenv("7587085170:AAFJ7vuIZ42cYR7ZhSLNvJehpz0379CGjyI")  # Set your bot token in Render environment variables
 
 # -----------------------------
 # ⚙️ START COMMAND
