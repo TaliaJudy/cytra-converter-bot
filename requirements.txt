@@ -1,0 +1,7 @@
+python-telegram-bot==21.6
+pydub
+Pillow
+img2pdf
+SpeechRecognition
+pypandoc
+ffmpeg-python
